@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://www.facebook.com/korm.taiyi.5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/korm.taiyi.5" height="30" width="40" /></a>
 <a href="https://t.me/taiyi289" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/telegram.svg" alt="https://t.me/taiyi289" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/telegram.svg" alt="Telegram" height="30" width="40" />
 </a>
 </p>
 
