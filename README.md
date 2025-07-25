@@ -7,9 +7,10 @@
 <p align="left">
 <a href="https://www.facebook.com/korm.taiyi.5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/korm.taiyi.5" height="30" width="40" /></a>
 <a href="https://t.me/taiyi289" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/telegram.svg" alt="Telegram" height="30" width="40" style="filter: invert(100%) brightness(100%);" />
+  <svg xmlns="http://www.w3.org/2000/svg" height="30" width="40" viewBox="0 0 24 24" fill="white">
+    <path d="M12 0C5.373 0 0 5.373 0 12c0 4.991 3.053 9.241 7.39 11.046.54.098.737-.234.737-.52 0-.256-.01-1.107-.015-2.007-3.006.654-3.637-1.45-3.637-1.45-.49-1.24-1.196-1.57-1.196-1.57-.978-.668.074-.654.074-.654 1.083.076 1.653 1.115 1.653 1.115.96 1.647 2.52 1.17 3.134.894.097-.695.375-1.17.683-1.44-2.398-.272-4.92-1.2-4.92-5.338 0-1.18.42-2.144 1.104-2.9-.111-.273-.48-1.37.104-2.853 0 0 .9-.29 2.95 1.104A10.244 10.244 0 0 1 12 6.844c.91.004 1.825.123 2.678.36 2.048-1.393 2.947-1.104 2.947-1.104.587 1.483.218 2.58.107 2.853.69.756 1.104 1.72 1.104 2.9 0 4.15-2.527 5.063-4.933 5.33.385.336.727.996.727 2.006 0 1.448-.014 2.617-.014 2.97 0 .29.195.624.744.518C20.947 21.237 24 16.99 24 12c0-6.627-5.373-12-12-12z"/>
+  </svg>
 </a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
