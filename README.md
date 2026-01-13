@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,js,ts,react,nextjs,java,spring,python,mysql,postgresql,docker,kubernetes,terraform,jenkins,ansible,googlecloud,git,bash,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=tailwind,js,ts,react,nextjs,java,spring,mysql,postgresql,docker,git,bash,ubuntu" />
   </a>
 </p>
 
