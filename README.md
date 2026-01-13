@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Korm+Taiyi" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A passionate web developer from Cambodia</h3>
+<!-- <h3 align="center">A passionate web developer from Cambodia</h3> -->
 
 <p align="center">
   <a href="mailto:korm.taiyi289@gmail.com">
@@ -28,7 +28,7 @@
 
 - 🎓 Computer Science at Royal University of Phnom Penh  
 - 📍 Based in **Cambodia**  
-- 🛠️ Passionate about **web development** and **mobile development**
+- 🛠️ Passionate about **Web and Mobile development**
 - 📫 How to reach me **korm.taiyi289@gmail.com**
 
 ---
